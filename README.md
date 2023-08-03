@@ -1,2 +1,3 @@
 ## esto es una prueba para ver como funciona un commit en git
-## no toque este codigo...}
+## no toque este codigo...
+Probando el funcionamiento actual de Git y GitHub
